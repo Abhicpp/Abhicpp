@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek kumar
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning DSA,web developments 
+- 🌱 I’m currently learning DSA,competitive coding.
 - 💞️ I’m looking to collaborate on open soutce projects
 - 📫 How to reach me abhishekkumar986874@gmail.com 
 
